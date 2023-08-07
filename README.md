@@ -9,7 +9,7 @@
 3. YouTube: https://www.youtube.com/@AstroKlaus
 4. Pensight: https://pensight.com/x/astrohive
 5. Discord: https://discord.com/invite/SbvEt3p4JK
-6. Portfolio: Https://astroklaus.github.io/portfolio/
+6. Portfolio: https://astroklaus.github.io/portfolio/
 
 ### Support Me:
 ⚡ Tip Jar: https://tr.ee/BncyVSuBBe
