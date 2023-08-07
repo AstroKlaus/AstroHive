@@ -1,7 +1,7 @@
 # ꧁Undergraduate Astronomy Student꧂
 
 ### About Me:
-""
+"My name is Nik and I am an undergraduate student that is currently studying for a Bachelor of Science degree in Space Studies within the Astronomy concentration. I post content on both TikTok and YouTube but I do not have a set schedule of when I release content. The type of content that you can expect will be centered around my educational journey but I will also post computer science or gaming related content as well."
 
 ### Social Links:
 1. TikTok: https://www.tiktok.com/@astrohive
@@ -11,19 +11,7 @@
 5. Discord: https://discord.com/invite/SbvEt3p4JK
 
 ### Support Me:
-- Tip Jar: https://tr.ee/BncyVSuBBe
+⚡ Tip Jar: https://tr.ee/BncyVSuBBe
 
-<!--
-**AstroHive/AstroHive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me:
+📫 Email: AstroHive@proton.me
